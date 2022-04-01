@@ -1,6 +1,12 @@
-1.int a = 5;
-2.int b = 3;
-3.if (a + b > 10)
-4.{
-5.	Console.WriteLine("The answer is greater than 10");
-6.} 
+int a = 5;
+int b = 3;
+if (a + b > 10)
+{
+	Console.WriteLine("The answer is greater than 10");
+}
+else
+{
+	Console.WriteLine("The answer not is greater than 10");
+}
+
+ 
