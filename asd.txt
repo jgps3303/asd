@@ -1,6 +1,14 @@
-1.int a = 5;
-2.int b = 3;
-3.if (a + b > 10)
-4.{
-5.	Console.WriteLine("The answer is greater than 10");
-6.} 
+int y = 6;
+int u = 9;
+if (y + u > 16)
+{
+    Console.WriteLine("wrong");
+}
+else if( y + u  <= 3)
+{
+    Console.WriteLine("wrong");
+}
+else
+{
+    Console.WriteLine("=15");
+}
